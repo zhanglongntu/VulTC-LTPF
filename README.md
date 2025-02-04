@@ -12,11 +12,11 @@ You can install the required dependency packages for our environment by using th
 
 ## Reproducing the experiments:
 
-1.You can directly use the ``dataset`` we have processed: [Google Drive Link](https://drive.google.com/drive/folders/1P42XsDWeMqAW33oS0gGamXEqxYiMjO5i?usp=drive_link)
+1.You can directly use the ``dataset`` we have processed: [Google Drive Link](https://drive.google.com/file/d/1T7aeMu3scAEFCNFMIIPeFgrtUIv7_ZGz/view?usp=drive_link)
 
-2.Run ``method/gress_train.py``. After running, you can retrain the ``model`` and obtain results.
+2.Run ``VulTC-LTPF.py``. After running, you can retrain the ``model`` and obtain results.
 
-3.You can find the implementation code for the ``RQ1-RQ5`` section and the ``Discussion`` section experiments in the corresponding folders. 
+3.You can find the implementation code for the ``RQ1-RQ5`` section and the ``Discussion1, Discussion2`` section experiments in the corresponding folders. 
 
 ## About model.
 You can obtain our ``saved model`` and reproduce our results through the link:[Model Link](https://drive.google.com/file/d/1HXOfpJzSlkCPuPkoKBkMjWRhpMKnOqiL/view?usp=sharing).
