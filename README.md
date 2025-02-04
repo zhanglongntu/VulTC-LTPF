@@ -5,7 +5,7 @@ This is the source code to the paper "VulTC-LTPF:Enhancing Long-Tailed Software 
 ## Approach
 ![](https://github.com/zhanglongntu/VulTC-LTPF/blob/main/Fig/framework.png)
 ## About dataset.
-Due to the large size of the datasets, we have stored them in Google Drive: [Dataset Link](https://drive.google.com/drive/folders/1P42XsDWeMqAW33oS0gGamXEqxYiMjO5i?usp=drive_link)
+Due to the large size of the datasets, we have stored them in Google Drive: [Dataset Link](https://drive.google.com/file/d/1T7aeMu3scAEFCNFMIIPeFgrtUIv7_ZGz/view?usp=drive_link)
 
 ## Requirements
 You can install the required dependency packages for our environment by using the following command: ``pip install - r requirements.txt``.
