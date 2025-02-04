@@ -3,7 +3,7 @@
 This is the source code to the paper "VulTC-LTPF:Enhancing Long-Tailed Software Vulnerability Type Classification with Adaptive Data Augmentation and Prompt Tuning". Please refer to the paper for the experimental details.
 
 ## Approach
-![](https://github.com/1-001/ORCL-SVA/blob/main/method/framework.png)
+![](https://github.com/zhanglongntu/VulTC-LTPF/Fig/Framework.pdf)
 ## About dataset.
 Due to the large size of the datasets, we have stored them in Google Drive: [Dataset Link](https://drive.google.com/drive/folders/1P42XsDWeMqAW33oS0gGamXEqxYiMjO5i?usp=drive_link)
 
