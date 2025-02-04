@@ -1,6 +1,6 @@
 # VulTC-LTPF:Enhancing Long-Tailed Software Vulnerability Type Classification with Adaptive Data Augmentation and Prompt Tuning
 
-This is the source code to the paper "ORCL-SVA:Enhancing Ordinal Regression-based Software Vulnerability Assessment via Difficulty Measure-based Curriculum Learning". Please refer to the paper for the experimental details.
+This is the source code to the paper "VulTC-LTPF:Enhancing Long-Tailed Software Vulnerability Type Classification with Adaptive Data Augmentation and Prompt Tuning". Please refer to the paper for the experimental details.
 
 ## Approach
 ![](https://github.com/1-001/ORCL-SVA/blob/main/method/framework.png)
